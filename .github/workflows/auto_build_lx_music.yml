@@ -2,7 +2,7 @@ name: LX Music Auto Build
 
 on:
   schedule:
-    - cron: 0 7 * * *
+    - cron: 0 0 19 ? * 6
   push:
     branches:
       - main

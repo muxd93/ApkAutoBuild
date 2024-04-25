@@ -2,7 +2,7 @@ name: FongMi Auto Build
 
 on:
   schedule:
-    - cron: 0 5 * * *
+    - cron: 0 30 17 ? * 6
   push:
     branches:
       - main
