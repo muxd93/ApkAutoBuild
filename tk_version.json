@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "versionName": "0.0.0",
   "desc": "TVBox_takagen99",
   "forcedUpgrade": false,
@@ -7,5 +7,5 @@
   "repoUserName": "muxd93",
   "repoName": "TVBox_takagen99",
   "repoBranch": "main",
-  "repoTag": "20240425-1342"
+  "repoTag": "20240427-2013"
 }
